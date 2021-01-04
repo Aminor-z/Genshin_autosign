@@ -2,14 +2,6 @@
 <h1 align="center">
 Genshin Impact Helper
 </h1>
-
-![Genshin Impact Helper](https://i.loli.net/2020/11/18/3zogEraBFtOm5nI.jpg)
-[![GitHub stars](https://img.shields.io/github/stars/y1ndan/genshin-impact-helper?style=flat-square)](https://github.com/Aminor-z/Genshin_autosign/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/y1ndan/genshin-impact-helper?style=flat-square)](https://github.com/Aminor-z/Genshin_autosign/network)
-[![GitHub issues](https://img.shields.io/github/issues/y1ndan/genshin-impact-helper?style=flat-square)](https://github.com/Aminor-z/Genshin_autosign/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/y1ndan/genshin-impact-helper?style=flat-square)](https://github.com/Aminor-z/Genshin_autosign/graphs/contributors)
-![Github workflow status](https://img.shields.io/github/workflow/status/Aminor-z/Genshin_autosign/Genshin_autosign?label=status&style=flat-square)
-
 </div>
 
 ## 📎前言
