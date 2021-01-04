@@ -180,13 +180,13 @@ def makeResult(result:str, data=None):
     sort_keys=False, indent=2, ensure_ascii=False
   )
 
-
-if __name__ == "__main__":
+def waitSometime():
   seconds = random.randint(10, 300)
-  ret = -1
   logging.info('Sleep for %s seconds ...' %(seconds))
   time.sleep(seconds)
-
+if __name__ == "__main__":
+  #waitSometime()
+  ret = -1
   try:
     jdict = Sign(input().strip()).run()
     jstr = json.dumps(jdict, ensure_ascii=False)
