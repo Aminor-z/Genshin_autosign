@@ -181,11 +181,11 @@ def makeResult(result:str, data=None):
   )
 
 def waitSometime():
-  seconds = random.randint(10, 300)
+  seconds = random.randint(0, 600)
   logging.info('Sleep for %s seconds ...' %(seconds))
   time.sleep(seconds)
 if __name__ == "__main__":
-  #waitSometime()
+  waitSometime()
   ret = -1
   try:
     jdict = Sign(input().strip()).run()
